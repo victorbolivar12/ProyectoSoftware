@@ -47,7 +47,8 @@
             </ul>
         </nav>
 
-        <!-------Home sections--------->
+<!-------Home sections--------->
+
         <header class="hero-section">
             <div class="content">
                 <img src="{{ asset('img/logo.png')}}" alt="" class="logo">
